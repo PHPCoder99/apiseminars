@@ -25,6 +25,10 @@ public class Seminar3 {
                 productName = products[i][0];
             }
         }
+        int thing = 0;
+        System.out.println(Integer.hashCode(thing));
+        int x_speed = 0;
+        int xSpeed = 1;
         return productName;
     }
 }

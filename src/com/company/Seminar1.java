@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Random;
 import java.math.*;
 
-public class Main {
+public class Seminar1 {
     public static void main(String[] args) {
         System.out.println(task1(" hello hi hello hey  hi a un    "));
         System.out.println(task2("-1 1 2 -4 5 -1 5 4 0"));
